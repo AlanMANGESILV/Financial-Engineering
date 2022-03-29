@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 pip install pandas
 VIRTUAL_ENV = venv
 if [ -d "$VIRTUAL_ENV" ]; then

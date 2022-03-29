@@ -1,4 +1,5 @@
-from book import Book
+#!/usr/bin/env python3
+from book_ex5 import Book
 
 def main():
     book = Book("TEST")
